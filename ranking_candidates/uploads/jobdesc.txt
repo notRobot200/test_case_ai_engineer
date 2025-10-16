@@ -1,0 +1,32 @@
+Our client, one of Indonesia's leading freight forwarding company, is currently looking for a Data Scientist to use data and AI in making operations more efficient, predictive, and profitable — reducing costs, avoiding delays, and improving service quality.
+
+Responsibilities:
+
+Planning and executing projects through the entire software development lifecycle.
+
+Collaborate with internal stakeholders, project team members, and partners to define business and technical requirements.
+
+Work with the team to translate requirements into project deliverables and priorities.
+
+Develop and implement machine learning models to solve business problems.
+
+Lead functional discussions and apply knowledge of best practices.
+
+Perform R&D related to Artificial Intelligence (AI) and Machine Learning (ML)
+
+Requirements:
+
+Bachelor’s or Master’s degree in Data Science, Computer Science, or a related field.
+
+Minimum 2 years of experience in data science or related roles.
+
+Proficient in Python and SQL.
+
+Familiar with ML frameworks such as Deep Learning, TensorFlow, PyTorch, and Generative AI.
+
+Hands-on project experience in AI or ML.
+
+Experience with cloud platforms: Alibaba, AWS, GCP, Azure, or similar.
+
+Self-motivated and eager to keep learning in the fast-evolving field of AI/M
+
